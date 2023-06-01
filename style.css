@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;700;800&display=swap');
+/* font-family: 'Manrope', sans-serif; */
+/* font families
+background: #1E1B1B;dark color
+background: #FF6433;orange color
+ background: #661CE7; blueviolet 
+ background: #00D289;mint
+ background: #E2E6E9; steelgrey
+ background: #F2F2F2; light gray*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 13vh;
+    width: 100%;
+   
+}
+
+.container{
+    width: 80%;
+    height: inherit;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
+.company-name > h2{
+   color: #1E1B1B;
+}
+
+.nav-contact{
+    display: flex;
+    align-items: center;
+}
+
+nav > ul{
+    display: flex;
+    list-style: none;
+}
+
+nav > ul > li{
+  padding-right: 20px; 
+  color: #1E1B1B;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Manrope', sans-serif; 
+}
+
+nav > ul:last-child{
+    border-right: 0.7px solid black;
+}
+
+.roadhelp{
+    display: flex;
+    padding-left: 15px;
+    align-items: center;
+}
+
+.whatsapp-logo{
+    padding-right: 15px;
+}
+
+.contact-details >  h4{
+  font-weight: 500;
+  font-size: 16px;
+  font-family: 'Manrope', sans-serif; 
+}
+
+.contact-details >  p{
+    font-weight: 600;
+    font-size: 16px;
+    color: ;
+    font-family: 'Manrope', sans-serif; 
+  }
+
+.hero-section{
+    width: 100%;
+    height: 87vh;
+
+}
+
+.content-area{
+  display: flex;
+  width: 100%;
+  height: 70vh;
+}
+
+.text-area,
+.image-area{
+    height: inherit;
+    width:50%;
+    
+}
+
+.text-area{
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.text-box{
+    width: 90%;
+    height: fit-content;
+  
+}
+
+.text-box > h1{
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 60px;
+    font-family: 'Manrope', sans-serif; 
+    color: #1E1B1B;
+}
+
+.text-box > button{
+    background-color: #FF6433;
+    color: #FFFFFF;
+    font-family: 'Manrope', sans-serif; 
+    font-size: 16px;
+    padding: 16px 40px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 12px;
+}
+
+.open-time{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.open-time > div:first-child{
+   padding-right: 12px;
+}
+
+.open-close-text > .top{
+    font-weight: 500;
+  font-size: 16px;
+  color: #939191;
+  font-family: 'Manrope', sans-serif; 
+}
+
+.open-close-text > .bottom{
+    font-weight: 600;
+  font-size: 16px;
+  color: #1E1B1B;
+  font-family: 'Manrope', sans-serif; 
+}
+
+.image-area{
+    height: inherit;
+    width:50%;
+}
+
+.image-area > img{
+    height: inherit;
+    width:100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.
