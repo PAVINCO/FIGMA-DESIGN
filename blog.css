@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;700;800&display=swap');
+/* font-family: 'Manrope', sans-serif; */
+/* font families
+background: #FF6433;dark color
+background: #FF6433;orange color
+ background: #661CE7; blueviolet 
+ background: #00D289;mint
+ background: #E2E6E9; steelgrey
+ background: .text-box >h6 light gray*/
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container{ 
+  height:;
+  width: 100%; 
+  
+}
+.img-box{
+    background-image: url(./Images/Image.png);
+    height: 87vh;
+    width: 40%; 
+}
+.img-box >h1{
+    color: white;
+    font-size: 30px;
+    margin-top: 55%;
+    margin-left: 40%;
+    width: 50%;
+    font-weight: 600;
+}
+.text-box{
+    width: 100%;
+    height: ;
+}
+
+
+.text-box >h6{
+    color:#FF6433 ;
+    margin-top: 10%;
+    padding-left: 25px;
+}
+.text-box >h4{
+    color:white;
+    margin-top: 4%;
+    font-size: 30px;
+    padding-left:25px ;
+    width: 70%;
+}
+.text-box >p{
+    color: white;
+    margin-top: 4%;
+    padding-left: 25px;
+    width: 80%;
+}
+button{
+    height: 10vh;
+    width: 35%;
+    border-radius: 60%;
+    background-color: #FF6433;
+    color: white;
+    border: none;
+    margin-top: 30%;
+}
+img{
+    background-color: whitesmoke;  
+}
+
+.first-box{
+    width: 100%;
+}
+
+.first-box >h6{
+
+    margin-left: 10%;
+    padding-top: 70px;
+}
+.first-box >p{
+    margin-left: 10%;
+    padding-top: 1px;
+}
+.small-text > h3{
+    color: white;
+    padding-left: 28%;
+    font-size: 15px;
+}
+.second-box{
+    width: 100%;
+}
+.second-box >h6{
+    margin-left: 10%;
+    padding-top: 40px;
+
+}
+.second-box >p{
+    margin-left: 10%;
+    padding-top: 1px;
+
+}
+.third-box{
+    width: 100%;
+}
+.third-box >h6{
+    margin-left: 10%;
+    padding-top: 40px;
+
+}
+.third-box >p{
+    margin-left: 10%;
+    padding-top: 1px;
+
+}
+
+.main-box >h5{
+    width: 50%;
+    font-size: 20px;
+}
+
+
+
+.third-cont{
+    height: 70vh;
+    width: 100%;
+    
+
+}
+
+
+.last-section{
+    width: 100%;
+    
+}
+.box-one{
+    width: 10%;
+    height: 70vh;
+    background-image: url(./Image\ 1.png);
+
+}
+.box-two{
+    background-color: #FF6433;
+    color: white;
+
+}
+.box-two >h4{
+    width: 85%;
+    margin-top: 30%;
+}
+.box-three{
+    height: 70vh;
+    width: 40%;
+    background-image: url(./charging-ba3.png);
+}
+.last-button{
+    background-color: black;
+    width: 40%;
+    border-radius: 20px;
+    margin-top: 10%;
+    
+}
+.final-section{
+    height: fit-content;
+    width: 100%;
+    background-color: #1E1B1B;
+
+}
+.first-msg{
+    color: white;
+    
+
+}
+.second-msg{
+    color: white;
+}
+footer{
+    height: 20vh;
+    width: 100%;
+    background-color:black;
+}
+li > a{
+    text-decoration: none;
+    color:white;
+}
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
